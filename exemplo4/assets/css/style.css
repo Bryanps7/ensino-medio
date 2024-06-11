@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    background: linear-gradient(to top right, green, green, rgb(0, 228, 0));
+    padding: 15px;
+    border-radius: 15px;
+    border: 1px green solid;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.25rem;
+
+}
+
+.info {
+    margin: 20px 0;    
+}
+
+input {
+    border: 1px green solid;
+    border-radius: 15px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+button {
+    width: 50%;
+    border-radius: 15px;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+button:hover {
+    transition: 500ms;
+    border: 1px solid white;
+    color: white;
+    background-color: black;
+}   
