@@ -1,0 +1,35 @@
+1 - Faça um algoritmo que faça a o produto por 3 de todos os elementos do vetor
+empregando a lógica do laço “for”, dado o vetor1 = [ 1, 2, 3, 4, 5 ] e apresente na tela para o
+usuário. Os dados serão inseridos diretamente no código pelo programador, ou seja, não
+haverá entrada de dados por parte do usuário.
+Observação: vetor1 * 3
+
+2 - refaça o algoritmo, onde o número escalar a ser realizado o produto é digitado pelo
+usuário.
+Observação: vetor1 * (número digitado)
+
+3 - Faça um algoritmo que faça a soma do escalar 7 de todos os elementos do vetor
+empregando a lógica do laço “for”, dado o vetor1 = [ 1, 2, 3, 4, 5 ] e apresente na tela para o
+usuário. Os dados serão inseridos diretamente no código pelo programador, ou seja, não
+haverá entrada de dados por parte do usuário.
+Observação: vetor1 + 7
+
+4 - refaça o algoritmo, onde o número escalar a ser realizado a soma é digitado pelo
+usuário.
+Observação: vetor1 + (número digitado)
+
+5 - Faça um algoritmo que leia os dados de 2 vetores de 5 elementos digitados pelo usuário
+e faça a soma entre estes vetores.
+Observação: vetor1 + vetor2
+
+6 - Faça um algoritmo que leia os dados de 2 vetores de 5 elementos digitados pelo usuário
+e faça a subtração entre estes vetores.
+Observação: vetor1 - vetor2
+
+7 - Faça um algoritmo que leia os dados digitados pelo usuário em um vetor de 7 elementos
+e faça a soma destes elementos internos do vetor.
+Observação: somar todos os elementos internos do vetor, exemplo [1,2,3,4,5,6,7] = 28
+
+8 - Faça um algoritmo que leia os dados de um vetor de 5 elementos e escreva os
+elementos em ordem inversa.
+Observação: exemplo vetor = [1,2,3,4,5] o programa escreve vetor = [5,4,3,2,1]

@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.responsivo1 {
+    font-size: 4rem;
+    font-family: 'Segoe UI';
+}
+
+.responsivo2 {
+    font-size: 3rem;
+}
+
+.responsivo3 {
+    font-size: 2rem;
+}
+
+@Media(min-width:600px){
+    .responsivo2{
+        font-size: 1.5rem;
+    }
+}
