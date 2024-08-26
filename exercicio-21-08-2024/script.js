@@ -70,3 +70,5 @@ function soma3() {
 
     res.innerHTML = `Par : ${par} <br> Ímpar : ${impar}`
 } 
+
+// ex 4
