@@ -1,0 +1,73 @@
+1 - Elabore um programa que gera uma matriz 5 x 5 do tipo diagonal secundária,
+cujos os elementos da diagonal são iguais a 3. Use o laço “for” para elaborar a lógica do programa. Apresente o resultado usando o comando console.table.
+Observação: faça o programa no computador em back end com o Node.js
+
+2 - Elabore um programa que gera uma matriz 5 x 5 do tipo identidade, cujos os
+elementos da diagonal são iguais a 7. Use o laço “for” para elaborar a lógica do programa. Apresente o resultado usando o comando console.table.
+Observação: faça o programa no computador em back end com o Node.js
+
+3 - Elabore um programa que gera uma matriz 5 x 5 do tipo identidade e outra
+do tipo diagonal secundária. Use o laço “for” para elaborar a lógica do programa. Posteriormente, o programa deve somar as duas matrizes. Apresente o
+resultado usando o comando console.table.
+Observação: faça o programa no computador em back end com o Node.js
+
+4 - Elabore um programa que gera uma matriz 5 x 5 com valores aleatórios. Use
+o laço “for” para elaborar a lógica do programa. Posteriormente, o programa
+deve somar todos os elementos da matriz. Apresente o resultado usando o
+comando console.table.
+Observação: faça o programa no computador em back end com o Node.js
+Observação 2: Para a função “ramdom”, use a seguinte expressão:
+valorAleatorio = Math.floor(Math.random() * (max - min + 1) ) + min)
+onde: max: é o maior número do intervalo e min: é o menor número do
+intervalo.
+
+5 - Elabore um programa que gera uma matriz 5 x 5 com valores aleatórios. Use
+o laço “for” para elaborar a lógica do programa. Posteriormente, o programa
+deve somar todos os elementos da diagonal principal e somar os elementos da
+diagonal secundária. Apresente o resultado usando o comando console.log das
+somas.
+Observação: faça o programa no computador em back end com o Node.js
+Observação 2: Para a função “ramdom”, use a seguinte expressão:
+valorAleatorio = Math.floor(Math.random() * (max - min + 1) ) + min)
+onde: max: é o maior número do intervalo e min: é o menor número do
+intervalo.
+
+6 - Elabore um programa que gera uma matriz 5 x 5 com valores aleatórios. Use
+o laço “for” para elaborar a lógica do programa. Posteriormente, o programa
+deve somar todos os elementos pares da matriz. Apresente o resultado usando
+o comando console.log.
+Observação: faça o programa no computador em back end com o Node.js
+Observação 2: Para a função “ramdom”, use a seguinte expressão:
+valorAleatorio = Math.floor(Math.random() * (max - min + 1) ) + min)
+onde: max: é o maior número do intervalo e min: é o menor número do
+intervalo.
+
+7 - Elabore um programa que gera uma matriz 5 x 5 com valores aleatórios. Use
+o laço “for” para elaborar a lógica do programa. Posteriormente, o programa
+deve somar todos os elementos ímpares da matriz. Apresente o resultado
+usando o comando console.log.
+Observação: faça o programa no computador em back end com o Node.js
+Observação 2: Para a função “ramdom”, use a seguinte expressão:
+valorAleatorio = Math.floor(Math.random() * (max - min + 1) ) + min)
+onde: max: é o maior número do intervalo e min: é o menor número do
+intervalo.
+
+8 - Elabore um programa que gera uma matriz 5 x 5 com valores aleatórios. Use
+o laço “for” para elaborar a lógica do programa. Posteriormente, o programa
+deve somar todos os elementos das linhas de índice 0, 2 e 4. Apresente o
+resultado usando o comando console.log.
+Observação: faça o programa no computador em back end com o Node.js
+Observação 2: Para a função “ramdom”, use a seguinte expressão:
+valorAleatorio = Math.floor(Math.random() * (max - min + 1) ) + min)
+onde: max: é o maior número do intervalo e min: é o menor número do
+intervalo.
+
+9 - Elabore um programa que gera uma matriz 5 x 5 com valores aleatórios. Use
+o laço “for” para elaborar a lógica do programa. Posteriormente, o programa
+deve somar todos os elementos das colunas de índice 0, 2 e 4. Apresente o
+resultado usando o comando console.log.
+Observação: faça o programa no computador em back end com o Node.js
+Observação 2: Para a função “ramdom”, use a seguinte expressão:
+valorAleatorio = Math.floor(Math.random() * (max - min + 1) ) + min)
+onde: max: é o maior número do intervalo e min: é o menor número do
+intervalo.
