@@ -1,0 +1,28 @@
+1, 2 e 3 {
+	SERVIDOR: DNS - HTTP - DHCP
+	CONFIG: PRINT das configurações dos servidores
+		PRINT das configurações do Dominio
+	Equipamentos:
+		SWITCHS
+		SERVIDORES
+		COMPUTADORES
+		LAPTOPS
+		CABOS DE REDES
+}
+4 - VISUALG30
+5 - Banco de Dados
+6 {
+	DER : Modelo Conceitual
+	MER : Modelo LÓGICO
+}
+7 {
+	ARDUINO
+	RESISTOR
+	LEDS
+	CABOS
+	
+}
+8 e 9 {
+	fLUXOGRAMA
+}
+10 - BÔNUS
