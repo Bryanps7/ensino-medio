@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="prog.js" defer></script>
+    <title>Calcular</title>
+</head>
+<body>
+    <div id="calculadora">
+        <div id="display"></div>
+
+        <div id="row1" class="rows">
+            <button onclick="adicionar('7')" class="numbers">7</button>
+            <button onclick="adicionar('8')" class="numbers">8</button>
+            <button onclick="adicionar('9')" class="numbers">9</button>
+            <button onclick="adicionar('+')" class="sinais">+</button>
+        </div>
+        <div id="row2" class="rows">
+            <button onclick="adicionar('4')" class="numbers">4</button>
+            <button onclick="adicionar('5')" class="numbers">5</button>
+            <button onclick="adicionar('6')" class="numbers">6</button>
+            <button onclick="adicionar('-')" class="sinais">-</button>
+        </div>
+        <div id="row3" class="rows">
+            <button onclick="adicionar('1')" class="numbers">1</button>
+            <button onclick="adicionar('2')" class="numbers">2</button>
+            <button onclick="adicionar('3')" class="numbers">3</button>
+            <button onclick="adicionar('*')" class="sinais">*</button>
+        </div>
+        <div id="row4" class="rows">
+            <button onclick="adicionar('0')" class="numbers">0</button>
+            <button id="igual">=</button>
+            <button onclick="adicionar('/')" class="sinais">/</button>
+        </div>
+        <!-- <label for="num"><strong>Digite o primeiro número: </strong></label> <br>
+        <input type="text" id="num1"> <br>
+        <label for="num2"><strong>Digite o segundo número: </strong></label> <br>
+        <input type="text" id="num2"> <br>
+        <button id="soma"> +</button>
+        <div id="res"></div> -->
+    </div>
+</body>
+</html>
