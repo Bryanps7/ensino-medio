@@ -1,0 +1,34 @@
+1) Implementar em Javascript a partir de uma quantidade de
+números aleatórios os algoritmos de ordenação: Insertion Sort,
+Selection Sort e Bubble Sort. O programa deve gerar uma
+quantidade de números, ordenar os números em ordem
+crescente no array e depois colocar os números em ordem
+decrescente no array e exibir o resultado na tela, com o uso de
+HTML, CSS e Javascript. Requisitos: os números aleatórios
+devem começar a partir do 1 (um) enquanto o maior valor do
+intervalo dos números aleatórios é igual a quantidade de
+números gerados. Exemplo: Se o número digitado for 5, o
+intervalo de geração de números aleatórios é de 1 à 5, com 5
+números no array. O programa deve ter 3 botões, sendo o
+primeiro para gerar o número aleatório, o segundo para ordenar
+e o terceiro para colocar os números em ordem inversa. Os
+resultados do array original, array em ordem crescente e em
+ordem decrescente, devem ser apresentados para o usuário.
+Usar os métodos ‘createElement’ e ‘setAttribute’, ‘appendChild’,
+‘querySelector’ e utilizar arrow function.
+
+2) Elaborar 3 (três) vídeos explicativos, um para cada algoritmo:
+Insertion Sort, Selection Sort e Bubble Sort. Cada vídeo deve
+explicar como o algoritmo funciona, explicando com suas
+palavras o passo a passo do algoritmo em funcionamento. Usar
+o array [5, 3, 1, 4, 2] como referência para demonstrar a
+explicação. O programa deve ser feito em HTML, CSS e
+Javascript. O array pode ser inserido diretamente no programa.
+Requisito: o programa deve apresentar o resultado na tela dos
+passos usados para ordenar o algoritmo e deve possuir apenas 1
+botão para iniciar a execução do programa (cada aluno vai
+gravar um vídeo). O programa deve orientar o usuário do que o
+programa faz. Usar os métodos ‘createElement’ e ‘setAttribute’,
+‘appendChild’, ‘querySelector’ e utilizar arrow function.
+3) Inserir os algoritmos na situação de aprendizagem, assim como
+1 vídeo explicativo de um dos métodos.
